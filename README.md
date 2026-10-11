@@ -18,6 +18,6 @@ An honest answer to "do EMF protection pendants work?" — including what indepe
 
 ## Open items
 
-- [ ] Affiliate link still a placeholder (#AFFILIATE_LINK_HERE in index.html)
+- [x] Affiliate link wired 2026-10-11 (`essentialenergy.solutions/?sca_ref=6415120.sECdSrleY9`, `rel="sponsored nofollow"`)
 - [ ] Sandra's own line, in her words, for the "why I wear one" section
 - [ ] Custom domain, if wanted
